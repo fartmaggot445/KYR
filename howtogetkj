@@ -2,7 +2,7 @@
 _G.TpDash = false --tp dashes
 _G.WallComboFrames = true
 _G.WallCutscene = true --cutscene for wallcombo
-_G.KJAnims = false --Plays real kj anims while others still see the FE anims
+_G.KJAnims = true --Plays real kj anims while others still see the FE anims
 _G.ImpactTransparency = 0 --if u wanna see the world while seeing the frames then set it to 0.3 or smth
 _G.MoreSFX = true -- unused rn --(Recommended if you want more spicier sfx than just official tsb sfx for kj)
 _G.InfiniteKJ = false --(dont use for now, it breaks the script after death aka with num4 or num3) (to disable after use, choose another character)
