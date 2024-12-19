@@ -3,7 +3,7 @@
 
 **SOFTWARE LICENSE AGREEMENT**
 
-This Software License Agreement ("Agreement") is entered into on 12/16/24 ("Effective Date")
+This Software License Agreement ("Agreement") is entered into on 12/19/24 ("Effective Date")
 
 **1. DEFINITIONS**
 
@@ -11,6 +11,9 @@ This Software License Agreement ("Agreement") is entered into on 12/16/24 ("Effe
 https://github.com/fartmaggot445,
 https://github.com/fartmaggot445,
 https://github.com/fartmaggot445,
+https://github.com/fartmaggot445,
+https://github.com/fartmaggot445,
+https://github.com/fartmaggot445.
 including all updates, modifications, and enhancements of the script.
 * "Licensee" means the individual or entity using the Software.
 
